@@ -24,7 +24,7 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
 
 * **DO NOT** change any settings in row 1. 
 * Each row from 2 on will be a new slide in your timeline. If you need more slides, simply select **ADD (blank) more rows at bottom**.
-  This is located on the bottom left of your timeline chart.
+  This is located on the bottom left of your timeline chart:
   
 ![image of add rows button](images/JS_timeline_002.PNG)
 
@@ -34,14 +34,19 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
   - Text is the body text that will be seen. 
   - Media is the column to include a link to a picture/video you would like to be shown on the timeline. 
   - Media credit gives credit to where the media came from, and 
-  - Media caption is the caption that will appear directly under the media (in smaller text then the body text).
+  - Media caption is the caption that will appear directly under the media (in smaller text than the body text).
 
 [Return to Top](#about)
-
   
 ## Previewing Your Timeline.
-* After filling out your timeline spreadsheet, click on the **File** tab. From the dropdown menu, select **publish to the web** -> **Embed** -> **Publish**. Close out of the pop-up window.
-* Copy the URL of your timeline, and paste it next to the **Step 3** on the timeline website in the **Google Spreadsheet URL** box.
+* After filling out your timeline spreadsheet, copy the URL of this page. 
+
+![where to copy URL](images/JS_timeline_003.PNG)
+
+* Navigate back to the Knightlab Timeline page. Paste your URL next to **Step 3** in the **Google Spreadsheet URL** box.
+
+![where to paste URL](images/JS_timeline_004.PNG)
+
 * Next to **Step 4** on the timeline website, your personalized link and HTML for your timeline has been generated. Click on **Preview** to preview your timeline.
 
 [Return to Top](#about)
