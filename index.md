@@ -18,8 +18,16 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
 ## Making a Timeline
 * After going to the TimelineJS website, select the **Make a Timeline** button. This navigates you to the step-by-step instructions on using the website to make a timeline.
 * First you need to **Get the Spreadsheet Template**. You will be asked to **Make a Copy** of the Timeline template spreadsheet to your Google Drive.
-* The template spreadsheet will automatically open. You now have the ability to fill in your information for your timeline. **DO NOT** Change any settings in row 1.
-* Each row from 2 on will be a new slide in your timeline, if you need more, simply select **ADD (blank) more rows at bottom**.
+* The template spreadsheet will automatically open. You now have the ability to fill in your information for your timeline. 
+
+![Image of Timeline Spreadsheet](images/JS_timeline_001.PNG)
+
+* **DO NOT** change any settings in row 1. 
+* Each row from 2 on will be a new slide in your timeline. If you need more slides, simply select **ADD (blank) more rows at bottom**.
+  This is located on the bottom left of your timeline chart.
+  
+![image of add rows button](images/JS_timeline_002.PNG)
+
 * The columns across the top tell you what information to place: 
   - Beginning Year/Month/Time and Ending Year/Month/Date/Time (the ending date is optional). 
   - Headline is the title that will be shown for that particular row's slide.
