@@ -40,8 +40,7 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
 ![the PQR columns](images/JS_timeline_005.PNG)
 
   - The example given, #333333, is a color hex code that represents a specific color. For example, #333333 is a light gray. These hex triplets can be found all around the web. Look around for a neutral color so that your information is easily readable. Bright colors can distract from your information! 
-  - You can also use an image for your background. Place the url of an image **Column R** and test it out. 
-![test out image](images/JS_timeline_006.PNG)
+  - You can also use an image for your background. Place the url of an image **Column R, Row 4** and test it out. 
   - Here I inserted an image of a flower in **Column R** Let's see how it looks below!
 ![flower image result](images/JS_timeline_007.PNG)
   
