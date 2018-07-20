@@ -1,6 +1,6 @@
 ## About
 Last Updated  20 July 2018   
-Created by **Wendy Jordan**
+Created by **Wendy Jordan** | 
 Updated by **Chelsea Smith-Antonides**
 
 ## Table of Contents
