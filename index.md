@@ -1,7 +1,6 @@
 ## About
 Last Updated  20 July 2018   
 Created by **Wendy Jordan**
-
 Updated by **Chelsea Smith-Antonides**
 
 ## Table of Contents
@@ -12,7 +11,7 @@ Updated by **Chelsea Smith-Antonides**
 
 
 ## What is Timeline?
-Timeline is exactly what it says; it is a tool that can allow you to create a web timeline and include it on your website. It is created by Knightlab, and is located at [https://timeline.knightlab.com/](https://timeline.knightlab.com/).
+Timeline is exactly what it says: it is a tool that allows you to create a web timeline and include it on your website. It is created by Knightlab, and is located at [https://timeline.knightlab.com/](https://timeline.knightlab.com/).
 
 [Return to Top](#about)
 
