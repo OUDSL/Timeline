@@ -1,7 +1,8 @@
 ## About
-Last Updated  18 April 2018   
-Created by Wendy Jordan
-Updated by Chelsea Smith-Antonides
+Last Updated  20 July 2018   
+Created by **Wendy Jordan**
+
+Updated by **Chelsea Smith-Antonides**
 
 ## Table of Contents
 * [What is Timeline?](#what-is-timeline?)
@@ -63,15 +64,17 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
 
 ![where to paste URL](images/JS_timeline_004.PNG)
 
-* Next to **Step 4** on the timeline website, your personalized link and HTML for your timeline has been generated. Click on **Preview** to preview your timeline.
+* Next to **Step 4** on the timeline website. Your personalized link and HTML for your timeline has been generated. Click on **Preview** to preview your timeline below.
+
+* Note: If you make any changes to your timeline, they will automatically save and update. Just click on **Preview** again to regenerate your timeline with the changes. 
 
 [Return to Top](#about)
 
 
 ## Putting Your Timeline on Your Website
-* After reviewing your document, copy the **Embed** code that was generated for you next to the **Step 4**.
+* After reviewing your document, copy the **Embed** code that was generated for you in **Step 4**.
 * Go to your website's admin/edit page. Select the page you wish your timeline to be on.
-* Make sure that HTML editing for your page is on, (there may be an 'HTML editor' button for this). Paste your embedded HTML code, and save the changes to page.
+* Make sure that HTML editing for your page is on (there may be an 'HTML editor' button for this). Paste your embedded HTML code, and save the changes to page.
   * Step-by-step for Omeka Users
     * Select the page you want the timeline on: a simple or an exhibit page. Go to the **Text** box, click **HTML Editor**.
     * Paste your Html code, and click **OK**.
