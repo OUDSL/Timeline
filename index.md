@@ -38,13 +38,13 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
   - Media caption is the caption that will appear directly under the media (in smaller text than the body text).
 * The final columns, **P Q R**, allow you to customize the look of your timeline:
 
--> ![the PQR columns](images/JS_timeline_005.PNG) <-
+![the PQR columns](images/JS_timeline_005.PNG)
 
   - The example given, #333333, is a color hex code that represents a specific color. For example, #333333 is a light gray. These hex triplets can be found all around the web. Look around for a neutral color so that your information is easily readable. Bright colors can distract from your information! 
   - You can also use an image for your background. Place the url of an image **Column R, Row 4**. 
   - Here I inserted an image of a flower in **Column R** Let's see how it looks below! 
 
--> ![flower image result](images/JS_timeline_007.PNG) <-
+![flower image result](images/JS_timeline_007.PNG)
 
 - This image is not too distracting, and that's exactly what you want to look for if you utilize images. 
   
@@ -57,11 +57,11 @@ Timeline is exactly what it says; it is a tool that can allow you to create a we
 ## Previewing Your Timeline.
 * After filling out your timeline spreadsheet, copy the URL of the page. 
 
--> ![where to copy URL](images/JS_timeline_003.PNG) <-
+![where to copy URL](images/JS_timeline_003.PNG)
 
 * Navigate back to the Knightlab Timeline page. Paste your URL next to **Step 3** in the **Google Spreadsheet URL** box.
 
--> ![where to paste URL](images/JS_timeline_004.PNG) <-
+![where to paste URL](images/JS_timeline_004.PNG)
 
 * Next to **Step 4** on the timeline website, your personalized link and HTML for your timeline has been generated. Click on **Preview** to preview your timeline.
 
